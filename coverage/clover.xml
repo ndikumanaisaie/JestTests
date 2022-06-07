@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654638480093" clover="3.2.0">
-  <project timestamp="1654638480093" name="All files">
-    <metrics statements="14" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="3" elements="21" coveredelements="10" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+<coverage generated="1654638605831" clover="3.2.0">
+  <project timestamp="1654638605831" name="All files">
+    <metrics statements="15" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="4" elements="23" coveredelements="12" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
     <file name="string.js" path="C:\Users\UHF-GINA-TRACKING\Desktop\Microverse projects\JestTests\tests\string.js">
-      <metrics statements="14" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="3"/>
+      <metrics statements="15" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
       <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -18,6 +18,7 @@
       <line num="27" count="3" type="stmt"/>
       <line num="31" count="3" type="stmt"/>
       <line num="34" count="3" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
