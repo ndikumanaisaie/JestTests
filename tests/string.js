@@ -14,3 +14,10 @@ module.exports.stringLenght = (str) => {
   // }
   // return num * num;
 };
+
+module.exports.reverseString = (str) => {
+  const mystrArray = str.split('');
+  const reverseArray = mystrArray.reverse();
+  const joinedArray = reverseArray.join('');
+  return joinedArray;
+};
