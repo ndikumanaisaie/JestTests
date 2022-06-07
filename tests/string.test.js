@@ -1,5 +1,7 @@
 const strModule = require('./string.js');
 
-test('length of isaie equals 5', () => {
-  expect(strModule.stringLength('isaie')).toBe(5);
+test('use the correct string', () => {
+  expect(() => {
+    strModule.stringLenght('');
+  }).toThrow('use the correct string');
 });
