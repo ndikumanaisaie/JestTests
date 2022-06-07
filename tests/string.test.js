@@ -42,3 +42,7 @@ describe('product operations', () => {
     expect(strModule.mathOperations.product(2, 24)).toBe(48);
   });
 });
+
+test('capitalize', () => {
+  expect(strModule.capitalize('ndikumana')).toBe('Ndikumana');
+});

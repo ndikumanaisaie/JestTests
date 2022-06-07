@@ -34,3 +34,5 @@ module.exports.mathOperations = {
     return a * b;
   },
 };
+
+// module.exports.capitalize = (str) => str[0].toUpperCase() + str.slice(1);
